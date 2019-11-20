@@ -1,4 +1,7 @@
-# Workshop Raphael Santos
+# Workshop Raphael Santos RS/XP 2019
+<p align="center">
+  <img width="366" height="149" src="./rsxp-logo.png">
+</p>
 Repositório do workshop (Implementando 2FA com NodeJS por SMS e Audio) apresentado por Raphael Santos no dia 25/11/2019 no evento Rocketseat Experience
 
 # Contato
