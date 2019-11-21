@@ -13,9 +13,9 @@ Trabalha com as seguintes linguagens de Backend: NodeJS, PHP, C# e mais uma porr
 🌐 **Perfil LinkedIn**: https://www.linkedin.com/in/raphael-santos-a6a68194
 
 # Links úteis
-* [Documentação API Totalvoice](https://api.totalvoice.com.br/doc)
-* [Painel Totalvoice](https://api.totalvoice.com.br/painel)
-* [Github Totalvoice](https://github.com/totalvoice)
+* [Documentação API TotalVoice](https://api.totalvoice.com.br/doc)
+* [Painel TotalVoice](https://api.totalvoice.com.br/painel)
+* [Github TotalVoice](https://github.com/totalvoice)
 
 # Trechos de código
 * [Arquivo ./lib/db/user.js](https://gist.github.com/raphaelmacsabpf/1173e3aacd9067cb9325ef954bb05074)
