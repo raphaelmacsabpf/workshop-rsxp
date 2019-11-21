@@ -5,7 +5,7 @@
 Repositório do workshop (Implementando 2FA com NodeJS por SMS e Audio) apresentado por Raphael Santos no dia 25/11/2019 no evento Rocketseat Experience.
 
 # Facilitador
-## Raphael Santos 
+### Raphael Santos 
 ### Backend Developer - TotalVoice
 Trabalha com as seguintes linguagens de Backend: NodeJS, PHP, C# e mais uma porrada de outras tecnologias.
 
