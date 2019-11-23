@@ -13,6 +13,7 @@ Trabalha com as seguintes linguagens de Backend: NodeJS, PHP, C# e mais uma porr
 🌐 **Perfil LinkedIn**: https://www.linkedin.com/in/raphael-santos-a6a68194
 
 # Links úteis
+* [Pegue aqui seu Access-Token](https://conteudo.totalvoice.com.br/landing-page-workshop-2fa)
 * [Documentação API TotalVoice](https://api.totalvoice.com.br/doc)
 * [Painel TotalVoice](https://api.totalvoice.com.br/painel)
 * [Github TotalVoice](https://github.com/totalvoice)
